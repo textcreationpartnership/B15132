@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from the north, truly relating how about a hundred of the Scottish rebels, intending to plunder the house of M. Thomas Pudsie ... were set upon by a troupe of our hoursemen, under the conduct of that truly valorous gentleman Leiutenant [sic] Smith, leiutenant [sic] to noble Sr. Iohn Digby ...</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15132</idno><idno type="EEBO-CITATION">48453193</idno>
+  <idno type="VID">178286</idno>
+  <idno type="EEBO-PROQUEST">2240910686</idno>
+  <idno type="STC">STC 19238</idno>
+  <idno type="STC">ESTC S94600</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15132)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178286)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1553:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from the north, truly relating how about a hundred of the Scottish rebels, intending to plunder the house of M. Thomas Pudsie ... were set upon by a troupe of our hoursemen, under the conduct of that truly valorous gentleman Leiutenant [sic] Smith, leiutenant [sic] to noble Sr. Iohn Digby ...</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[2] p. ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by E.G. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains three illustrations.</note>
+                  <note>Signed at end: M.P.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Ballads, English --  17th century.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:178286:1"/>
+            <head>Good Newes from the North, Truly relating how about a hundred of the <hi>Scottish</hi> Rebels, intending to plunder the house of M. <hi>Thomas Fudsie</hi> (at <hi>Stapleton</hi> in the Bishopri<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k of <hi>Durham.</hi>) Were set upon by a troupe of our horsemen, under the conduct of that truly valorous gentle<g ref="char:EOLhyphen"/>man Leiutenant <hi>Smith,</hi> Leiutenant to noble Sr. <hi>Iohn Digby;</hi> thirty nine of them (whereof some were men of quality) are taken prisoners, the rest all slaine except foure or five which fled, wherof two are drowned. The names of them taken is inserted in a list by it selfe. This was upon Friday about fore of the clock in the morning, the eightenth day of this instant September, 1640.</head>
+            <opener>The tune is, <hi>King Henry going to Bulloine.</hi>
+            </opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of an ambush</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>ALl you who wish prosperity,</l>
+               <l>To our King and Country,</l>
+               <l>and their confusion which falce hearted be,</l>
+               <l>Here is some newes (to cheare your hearte,)</l>
+               <l>Lately from the Northerne parts,</l>
+               <l>of brave exployts perform'd with corage frée.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Scots</hi> (there in possesson,</l>
+               <l>Almost beyond expression,</l>
+               <l>afflict the people in outragious wise;</l>
+               <l>Bestoes their lowance (which is much)</l>
+               <l>The cruelty of them is such,</l>
+               <l>that all they find they take as lawfull prise.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Sheepe, Oxen, Kine,</hi> and <hi>Horses,</hi>
+               </l>
+               <l>Their quotidiall course is,</l>
+               <l>to drive away where ever them they finde;</l>
+               <l>Money plate and such good géere,</l>
+               <l>From the Houses far and neere,</l>
+               <l>they beare away even what doth please their mind.</l>
+            </lg>
+            <lg>
+               <l>But theirs an ancient adage,</l>
+               <l>Ost used in this mad age,</l>
+               <l>the Pitcher goes so often to the Well;</l>
+               <l>That it comes broken bome at last,</l>
+               <l>So they for all their knavery past,</l>
+               <l>shall rue ere long though yet with pride they swell.</l>
+            </lg>
+            <lg>
+               <l>As this our present story,</l>
+               <l>(To the deserved glory.</l>
+               <l>of them who were the actors in this play.)</l>
+               <l>Vnto you shall a relish give.</l>
+               <l>Of what (if heaven let vs liue;)</l>
+               <l>will come to passe which is our sees decay.</l>
+            </lg>
+            <lg>
+               <l>Those rebels use to pillage,</l>
+               <l>In every country Village,</l>
+               <l>and unresisted romed up and downe;</l>
+               <l>But now at last the gréedy <hi>Scot,</hi>
+               </l>
+               <l>Hath a friday's breakefast got,</l>
+               <l>sew of such feasts wil pull their courage down</l>
+            </lg>
+            <lg>
+               <l>At foure o'th clock i'th morning,</l>
+               <l>(Let all the rest take warning)</l>
+               <l>about a hundred of these rebels came;</l>
+               <l>To M <hi>Pudseys</hi> house where they,</l>
+               <l>Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e sure account to have a pr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</l>
+               <l>for their intention was to rob the same.</l>
+            </lg>
+            <lg>
+               <l>Of no danger thinking,</l>
+               <l>To eating and to drinking,</l>
+               <l>the <hi>Scots</hi> did fall, but sure they said no grace,</l>
+               <l>For there they eat and drank their last,</l>
+               <l>With ill successe they brake their fast.</l>
+               <l>most of them to disgest it had no space.</l>
+            </lg>
+            <lg>
+               <l>An English troope not farre thence,</l>
+               <l>Had (it séemes) intelligence</l>
+               <l>of these had guests at Master <hi>Podseyes</hi> house,</l>
+               <l>And with all speed to <hi>Stapleton,</hi>
+               </l>
+               <l>With great courage they rode on,</l>
+               <l>While <hi>Jocky</hi> was drinking his last carouse.</l>
+            </lg>
+            <lg>
+               <l>The house they did beleaguer</l>
+               <l>And like to Lions eager,</l>
+               <l>they fell upon the <hi>Scots</hi> pell-mell so fast,</l>
+               <l>That in a little space of time,</l>
+               <l>Byth' Rebels fall our men did clime,</l>
+               <l>they paid them for their insolencies past.</l>
+            </lg>
+         </div>
+         <div type="song">
+            <pb facs="tcp:178286:2"/>
+            <head>The second part. To the same tune.</head>
+            <p>
+               <figure>
+                  <figDesc>four men on horseback</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>IN briefe the brave Lieutenant,</l>
+               <l>With his men ualiant,</l>
+               <l>so plaid their parts against the daring foes,</l>
+               <l>Thet quickly they had cause to say,</l>
+               <l>Sweet meat must have sowre sauce alway,</l>
+               <l>for so indéed they found to all their woes.</l>
+            </lg>
+            <lg>
+               <l>Thirty nine are prisoners taine,</l>
+               <l>And all the rest outright ar<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> slaine,</l>
+               <l>except some foure or five that <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an away,</l>
+               <l>And two of those (as some alledge)</l>
+               <l>Were drown'd in passing o're Crofts bridge,</l>
+               <l>so néer they were pursu'd they durst not stay.</l>
+            </lg>
+            <lg>
+               <l>If them who are in durance</l>
+               <l>(<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nder good assurance)</l>
+               <l>some officers and men of quality,</l>
+               <l>Among them are, 'tis manifest,</l>
+               <l>to them who will peruse the List,</l>
+               <l>Wherein their names are set down orderly.</l>
+            </lg>
+            <lg>
+               <l>Thus worthy <hi>Smith</hi> his ualour,</l>
+               <l>Hath <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owne unto the dolor,</l>
+               <l>of these proud Rebels, which with suttle wiles.</l>
+               <l>Came as in zeats and nothing else,</l>
+               <l>But now deare bought experience tels</l>
+               <l>those were but faire pretences to beguil's.</l>
+            </lg>
+            <lg>
+               <l>But th'end of their intention</l>
+               <l>Is if (with circumvention)</l>
+               <l>they can make us beléede what they pretend,</l>
+               <l>They'll hold us on with fained words,</l>
+               <l>And make us loath to draw our swords,</l>
+               <l>to worke our ruine, that's their chiefest end.</l>
+            </lg>
+            <lg>
+               <l>But God I trust will quickly</l>
+               <l>Heale our Kingdome sickly,</l>
+               <l>too long indéed sick of credulity;</l>
+               <l>And their blind eyes illuminate,</l>
+               <l>Who bring this danger to the State,</l>
+               <l>by trusting to a friend-like enemie.</l>
+            </lg>
+            <lg>
+               <l>Ile dayly pray and bourely,</l>
+               <l>As it doth in my power lye,</l>
+               <l>to him by whom Kings reigne; that with successe,</l>
+               <l>King <hi>Charles</hi> goe on and prosper may,</l>
+               <l>And (having made the <hi>Scots</hi> obay,)</l>
+               <l>rule or'e his Lands in peace and happinesse</l>
+            </lg>
+         </div>
+         <div type="casualties_list">
+            <head>18 <hi>Septemb.</hi> 1640 being Fryday morning.</head>
+            <p>At Stapleton 3 miles beyond Pearce bridge wee met with the Seots at 4 of the Clocke in the morning at Master Pudseys house in the Bishopricke of Dutham, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> breakfast, when wee made our Skirmish, Lieutenant Smith had the day, five or six of them esca<g ref="char:EOLhyphen"/>ped by Croft bridge, where they say they make their Randevous, the prisoners that were taken, are these that follow, viz.</p>
+            <list>
+               <item>1 <hi>Sir Archibald Douglasse, Sergeant Maior to Collonell.</hi>
+               </item>
+               <item>2 <hi>Iames Ramsey.</hi>
+               </item>
+               <item>3 <hi>Iohn Leirmouth,</hi> Lieutenant to Captaine Ayton.</item>
+               <item>4 <hi>Hopper Cornet</hi> to the Maior <hi>Duglasse.</hi>
+               </item>
+               <item>5 <hi>Ia. Ogley,</hi> Sarjeant to the said Major.</item>
+               <item>6 <hi>Patricke Vamphogic troup.</hi>
+               </item>
+               <item>7 <hi>Iames Colvildell.</hi>
+               </item>
+               <item>8 <hi>Iames Leving ston.</hi>
+               </item>
+               <item>9 <hi>Hector Mackmouth.</hi>
+               </item>
+               <item>10 <hi>Iohn Cowde.</hi>
+               </item>
+               <item>11 <hi>Iohn Hench.</hi>
+               </item>
+               <item>12 <hi>Alexander Paxton, wounded.</hi>
+               </item>
+               <item>13 <hi>William Ridge.</hi>
+               </item>
+               <item>14 <hi>David Buens wounded.</hi>
+               </item>
+               <item>15 <hi>Adam Bonnyer.</hi>
+               </item>
+               <item>16 <hi>Rob. Ferrony.</hi>
+               </item>
+               <item>17 <hi>Io. Milver<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>18 <hi>David Borret.</hi>
+               </item>
+               <item>19 <hi>Rob. Leisley.</hi>
+               </item>
+               <item>20 <hi>Ia. Ramsey.</hi>
+               </item>
+               <item>21 <hi>Allen Duckdell</hi> a dutch boy wounded.</item>
+               <item>22 <hi>Alexander Ferdringham.</hi>
+               </item>
+               <item>23 <hi>Io. Cattricke.</hi>
+               </item>
+               <item>24 <hi>Allen Laving stan.</hi>
+               </item>
+               <item>25 <hi>George Harret.</hi>
+               </item>
+               <item>26 <hi>Andrew Tournes.</hi>
+               </item>
+               <item>27 <hi>Robert Watts.</hi>
+               </item>
+               <item>28 <hi>Alexander Watts.</hi>
+               </item>
+               <item>29 <hi>William Anderson.</hi>
+               </item>
+               <item>30 <hi>Io. Layton.</hi>
+               </item>
+               <item>31 <hi>Alex. Dick.</hi>
+               </item>
+               <item>32 <hi>Patricke Cranny.</hi>
+               </item>
+               <item>33 <hi>William Simpson.</hi>
+               </item>
+               <item>34 <hi>Tho. Husband</hi> neere dead.</item>
+               <item>35 <hi>Io. Hill.</hi>
+               </item>
+               <item>36 <hi>Thomas Ferley.</hi>
+               </item>
+               <item>37 <hi>Andrew Whitehall.</hi>
+               </item>
+               <item>38 <hi>Iames Vianley.</hi>
+               </item>
+            </list>
+            <closer>
+               <signed>M.P.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed by <hi>E. G.</hi> and are to be sold at the signe of the Horse-shooe in <hi>Smithfield.</hi> 1640</p>
+         </div>
+      </back>
+   </text>
+</TEI>
